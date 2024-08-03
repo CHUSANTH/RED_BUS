@@ -12,10 +12,14 @@ This project focuses on scraping data from the Redbus website using Selenium, st
 The "Redbus Data Scraping and Filtering with Streamlit Application" aims to revolutionize the transportation industry by providing a comprehensive solution for collecting, analyzing, and visualizing bus travel data. By utilizing Selenium for web scraping, this project automates the extraction of detailed information from Redbus, including bus routes, schedules, prices, and seat availability. By streamlining data collection and providing powerful tools for data-driven decision-making, this project can significantly improve operational efficiency and strategic planning in the transportation industry.
 
 **Business Use Cases**
- Travel Aggregators: Real-time bus schedules and seat availability.
- Market Analysis: Analyzing travel patterns and preferences.
- Customer Service: Customized travel options.
- Competitor Analysis: Comparing pricing and service levels.
+1. **Travel Aggregators:** 
+   Real-time bus schedules and seat availability.
+2. **Market Analysis:** 
+   Analyzing travel patterns and preferences.
+3. **Customer Service:** 
+   Customized travel options.
+4. **Competitor Analysis:**
+   Comparing pricing and service levels.
 
 **Approach**
 1. Data Scraping: Use Selenium to scrape Redbus data.
