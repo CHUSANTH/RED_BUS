@@ -28,9 +28,9 @@ The "Redbus Data Scraping and Filtering with Streamlit Application" aims to revo
 4. Data Analysis/Filtering using Streamlit:Use SQL queries to retrieve and filter data based on user inputs.Use Streamlit to allow users to interact with and filter the data through the application.
 
 **Project Deliverables**
-Source Code: Python scripts for scraping and application.
-Database Schema: SQL scripts for database creation.
-Application: A Streamlit app for data interaction.
+1. Source Code: Python scripts for scraping and application.
+2. Database Schema: SQL scripts for database creation.
+3. Application: A Streamlit app for data interaction.
 
 **Install Required Libraries:**
 
