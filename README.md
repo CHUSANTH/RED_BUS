@@ -1,5 +1,5 @@
 # Redbus Data Scraping & Filtering Application
-**Project Overview**
+**Introduction**
 This project focuses on scraping data from the Redbus website using Selenium, storing the data in a SQL database, and developing an interactive Streamlit application for filtering and analysis.
 
 **Problem Statement**
